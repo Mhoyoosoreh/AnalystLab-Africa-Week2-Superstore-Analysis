@@ -101,3 +101,7 @@ The analysis provides management with a clearer view of sales and profitability 
 
 - `Superstore_Sales(1).pbix` – Power BI project file
 - `AnalystLab_Africa_Week2_Superstore_Dashboard.pdf` – Dashboard export
+
+  ## Dashboard Preview
+
+![Superstore Sales & Profit Dashboard](AnalystLab_Africa_Week2_Superstore_Dashboard.png)
